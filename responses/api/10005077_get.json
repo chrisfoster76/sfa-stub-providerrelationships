@@ -5,7 +5,7 @@
     "AccountPublicHashedId": "4PGZEY",
     "AccountName": "MegaCorp Inc",
     "AccountLegalEntityId": 2817,
-    "AccountLegalEntityPublicHashedId": "YZ5EN4",
+    "AccountLegalEntityPublicHashedId": "YZWX27",
     "AccountLegalEntityName": "Mega Corp Pharmaceuticals",
     "Permissions": ["CreateCohort"]
   },
@@ -15,7 +15,7 @@
     "AccountPublicHashedId": "4PGZEY",
     "AccountName": "MegaCorp Inc",
     "AccountLegalEntityId": 2818,
-    "AccountLegalEntityPublicHashedId": "4NJ3V4",
+    "AccountLegalEntityPublicHashedId": "7N3MEY",
     "AccountLegalEntityName": "Mega Corp Bank",
     "Permissions": ["CreateCohort"]
   }
