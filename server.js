@@ -43,7 +43,8 @@ sendFile = function(res, url, method) {
 
     if(!fs.existsSync(filename))
     {
-        res.status(404).send('No such file: ' + filename);
+        //res.status(404).send('No such file: ' + filename);
+        res.send("[]");
         return;
     }
     
