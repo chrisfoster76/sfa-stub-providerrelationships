@@ -18,5 +18,15 @@
     "AccountLegalEntityPublicHashedId": "7N3MEY",
     "AccountLegalEntityName": "Mega Corp Bank",
     "Permissions": ["CreateCohort"]
+  },
+  {
+    "AccountProviderId": 10005077,
+    "AccountId": 30060,
+    "AccountPublicHashedId": "4NMEMR",
+    "AccountName": "Rapid Logistics Co Ltd",
+    "AccountLegalEntityId": 645,
+    "AccountLegalEntityPublicHashedId": "7EKPG7",
+    "AccountLegalEntityName": "Rapid Logistics Co Ltd",
+    "Permissions": ["CreateCohort"]
   }
 ]
